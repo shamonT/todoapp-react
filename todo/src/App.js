@@ -12,11 +12,11 @@ function App() {
     <div className="App">
       <div className="app">
         <div className="mainHeading">
-          <h1>ToDo</h1>
+          <h1>ToDo List</h1>
         </div>
         <div className="subHeading">
           <br />
-          <h2>Whoop, it's Sunday 🌝☕ </h2>
+          <h2>Whoop, it's sunday 🌝☕ </h2>
         </div>
         <div className="input">
           <input
