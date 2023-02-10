@@ -12,7 +12,7 @@ function App() {
     <div className="App">
       <div className="app">
         <div className="mainHeading">
-          <h1>ToDo List</h1>
+          <h1>ToDo</h1>
         </div>
         <div className="subHeading">
           <br />
